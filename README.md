@@ -13,6 +13,6 @@ Image upload
 Local operation:
 1. Ensure MongoDB & NodeJS registered in PATH,
 2. Use MongoDBCompass to reveal & copy MongoDB URL to server's .env,
-3. Inside client folder, use "nodemon index.js"
-4. Inside server folder, use "nodemon index.js"
+3. Inside client folder, use "npm install" then "nodemon index.js"
+4. Inside server folder, use "npm install" then "nodemon index.js"
 5. Make sure to register new user before login
