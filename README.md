@@ -1,6 +1,7 @@
 # FullStack Social Media App
 MERN-based social media app.
 Locally operated (Laragon ; MongoDB v4 - v7 ; NodeJS v20 - v22)
+Compressed in 7z for quick upload, ensure to have 7-zip app (https://www.7-zip.org/) for extraction.
 
 # Features
 CRUD (User registration)
